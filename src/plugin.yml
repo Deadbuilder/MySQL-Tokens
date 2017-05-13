@@ -1,0 +1,15 @@
+name: Tokens-v1.0.3
+main: org.db.ms.CORE.Tokens
+version: 1.0
+author: [ deadbuilder ]
+depend: [MVdWPlaceholderAPI]
+commands:
+  tokens:
+    description: Tokens Commands!
+    aliases: [mt,tok]
+
+permissions:
+  thugbucks.admin:
+    description: Allows player to take and give tokens!
+  thugbucks.reset:
+    description: Allows the player reset tokens!
