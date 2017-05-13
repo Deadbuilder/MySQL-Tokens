@@ -7,9 +7,3 @@ commands:
   tokens:
     description: Tokens Commands!
     aliases: [mt,tok]
-
-permissions:
-  thugbucks.admin:
-    description: Allows player to take and give tokens!
-  thugbucks.reset:
-    description: Allows the player reset tokens!
