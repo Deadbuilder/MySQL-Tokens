@@ -4,19 +4,3 @@ port: 3306
 database: dbName
 user: root
 password: password
-
-gui-title: '&8[&3Tokens&8]'
-1:
-  type: STONE
-  durability: 1 
-  name: '&3Name here'
-  commands:
-    - 'spawn %player%'
-    - 'eco give %player% 1'
-  cost: 0
-  message: '&3Teleported to spawn for $1.'
-  lore: 
-  - '&1This is a test lore!'
-  - '&1This is a test lore!'
-  buyable: true
-  onetime: true
